@@ -12,8 +12,8 @@ Overall this was a fun project and really helped show me first hand the importan
 
 ## Site Location
 
-[Horiseon: Online Solutions](file:///Users/abigailsexton/Desktop/projects/challenge-1/index.html)
+<a href="https://github.com/abbycav7/Code-Refractor-Challenge-1"> Horiseon: Online Solutions </a>
 
 ## Site Image
 
-![alt text](assets/images/screenshot.jpg)
+<img src=".assets/images/Screen Shot 2021-03-26 at 1.49.40 PM.png" alt="screen shot of page" />
