@@ -12,7 +12,7 @@ Overall this was a fun project and really helped show me first hand the importan
 
 ## Site Location
 
-![Site Location](https://abbycav7.github.io/Code-Refractor-Challenge-1/)
+[Site Location](https://abbycav7.github.io/Code-Refractor-Challenge-1/)
 
 ## Site Image
 ![Site Image](https://github.com/abbycav7/Code-Refractor-Challenge-1/blob/main/assets/images/screen-shot-1.png?raw=true)
