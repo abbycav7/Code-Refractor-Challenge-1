@@ -12,8 +12,7 @@ Overall this was a fun project and really helped show me first hand the importan
 
 ## Site Location
 
-<a href="https://github.com/abbycav7/Code-Refractor-Challenge-1"> Horiseon: Online Solutions </a>
+![Site Location](https://abbycav7.github.io/Code-Refractor-Challenge-1/)
 
 ## Site Image
-
-<img src=".assets/images/Screen Shot 2021-03-26 at 1.49.40 PM.png" alt="screen shot of page" />
+![Site Image](https://github.com/abbycav7/Code-Refractor-Challenge-1/blob/main/assets/images/screen-shot-1.png?raw=true)
